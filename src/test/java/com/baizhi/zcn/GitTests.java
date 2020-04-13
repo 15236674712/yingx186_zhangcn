@@ -19,5 +19,11 @@ public class GitTests {
     public void testqueryss(){
         
     }
+    
+    @Test
+    public void testGit(){
+        int a;
+        int b;
+    }
 
 }
