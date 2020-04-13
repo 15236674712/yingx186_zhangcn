@@ -22,8 +22,8 @@ public class GitTests {
     
     @Test
     public void testGit(){
-        int a;
-        int b;
+        int a=5;
+        int b=10;
     }
 
 }
